@@ -1,0 +1,5 @@
+com\facebook\testcases\TC_logintest_001.class
+com\facebook\pageobjects\Loginpage.class
+com\facebook\testcases\TC_loginddt_002.class
+com\facebook\utilities\Readconfig.class
+com\facebook\testcases\Baseclass.class

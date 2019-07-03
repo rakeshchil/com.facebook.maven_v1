@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="facebook1" duration-ms="38259" started-at="2019-06-29T06:46:39Z" finished-at="2019-06-29T06:47:18Z">
+    <groups>
+    </groups>
+    <test name="facebook test" duration-ms="38259" started-at="2019-06-29T06:46:39Z" finished-at="2019-06-29T06:47:18Z">
+      <class name="com.facebook.testcases.TC_logintest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.facebook.testcases.TC_logintest_001@2f7c7260]" name="setup" is-config="true" duration-ms="19225" started-at="2019-06-29T12:16:40Z" finished-at="2019-06-29T12:16:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.facebook.testcases.TC_logintest_001@2f7c7260]" name="setup1" duration-ms="19012" started-at="2019-06-29T12:16:59Z" finished-at="2019-06-29T12:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+      </class> <!-- com.facebook.testcases.TC_logintest_001 -->
+    </test> <!-- facebook test -->
+  </suite> <!-- facebook1 -->
+</testng-results>
